@@ -1,6 +1,6 @@
 # worldgen-examples
 
-Ce repo regroupe de multiples exemples de paramètre de génération de monde Minecraft (worldgen-settings).
+Ce repo regroupe de multiples exemples de paramètres de génération de monde Minecraft (worldgen-settings).
 
 ## Comment les importer ?
 Datapacks : Create New World > **Data Packs** > Import Datapack in "Selected" Column > Done > Create New World
